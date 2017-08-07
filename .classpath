@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="android/src"/>
+	<classpathentry kind="src" path="android/build/.apt_generated"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="/Users/mikestancliffe/Library/android/sdk/platforms/android-23/android.jar"/>
+	<classpathentry kind="lib" path="/Users/mikestancliffe/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/android/titanium.jar"/>
+	<classpathentry kind="lib" path="/Users/mikestancliffe/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="/Users/mikestancliffe/Library/Application Support/Titanium/mobilesdk/osx/6.0.0.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="android/lib/newrelic.android.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

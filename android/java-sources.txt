@@ -1,0 +1,5 @@
+"/Users/mikestancliffe/Projects/newrelic/android/src/com/movista/newrelic/NewrelicandroidModule.java"
+"/Users/mikestancliffe/Projects/newrelic/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/mikestancliffe/Projects/newrelic/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/mikestancliffe/Projects/newrelic/android/build/generated/r/com/movista/newrelic/R.java"
+"/Users/mikestancliffe/Projects/newrelic/android/build/generated/r/ti/modules/titanium/ui/R.java"

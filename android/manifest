@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.1
+apiversion: 3
+architectures: armeabi-v7a x86
+description: newrelic
+author: Mike Stancliffe
+license: Specify your license
+copyright: Copyright (c) 2017 by Your Company
+
+# these should not be edited
+name: newrelic
+moduleid: com.movista.newrelic
+guid: b039782c-6758-4745-a387-de72e0a87859
+platform: android
+minsdk: 6.0.0.GA
